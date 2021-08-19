@@ -10,6 +10,6 @@ This website has been created to highlight a little more about me, than what a c
 
 My name is Captain jaK. I have a zeal for IT Security & Technology, I love learning. After almost 7+ years of working knowledge and involvement in esteemed roles of Govt. projects and the Fintech sector. Specializes in **Cyber Law** and many industry-standard Security certifications. I am a part-time **OSINT** researcher and full-time Security & Privacy Activist. Cybercrime investigation strategies, Open Source Software patron.
  
-` A Nihilist, Centrist and a noob blogger ` 
+` Minimalist, Nihilist, Centrist and a Surfer ` 
 
 I invite you to further look into my work by perusing this website, read blog posts, and professional services in the top right corner. Contact me using the provided channels.  
