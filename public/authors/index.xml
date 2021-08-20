@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Captain Jak.</title>
-    <link>https://jakirhussainp7.github.io/captainjak/authors/</link>
+    <link>https://captainjak.tech/authors/</link>
     <description>Recent content in Authors on Captain Jak.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://jakirhussainp7.github.io/captainjak/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://captainjak.tech/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
