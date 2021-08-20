@@ -13,7 +13,7 @@ slug = "services"
 
 * #### Journalists/Whistleblowers Privacy
 
-     [Schedule a Consultation](/captainjak/contact/)
+     [Schedule a Consultation](/contact/)
 
 
 
