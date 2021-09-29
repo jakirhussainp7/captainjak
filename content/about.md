@@ -3,7 +3,7 @@ title = "About Me"
 description = "Captain Jak's portfolio website"
 date = "2021-08-05"
 aliases = ["about-me", "about-jakir", "contact"]
-author = "Captain Jak."
+author = "Captain Jak"
 +++
 
 This website has been created to highlight a little more about me, than what a cover letter or resume may show. I have listed some of my output during my career as a Professional in ``Art of CyberSecurity``.

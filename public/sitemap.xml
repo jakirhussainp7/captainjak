@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://captainjak.tech/about/</loc>
-    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+    <loc>https://captainjak.tech/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://captainjak.tech/</loc>
+    <loc>https://captainjak.tech/tags/pentest/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://captainjak.tech/posts/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://captainjak.tech/tags/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://captainjak.tech/posts/pentest2/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://captainjak.tech/about/</loc>
     <lastmod>2021-08-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,16 +39,6 @@
   
   <url>
     <loc>https://captainjak.tech/posts/blog1/</loc>
-    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://captainjak.tech/posts/</loc>
-    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://captainjak.tech/tags/</loc>
     <lastmod>2021-08-05T00:00:00+00:00</lastmod>
   </url>
   

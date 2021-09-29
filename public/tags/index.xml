@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Captain Jak.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://captainjak.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://captainjak.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pentest</title>
+      <link>https://captainjak.tech/tags/pentest/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://captainjak.tech/tags/pentest/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cissp</title>
       <link>https://captainjak.tech/tags/cissp/</link>

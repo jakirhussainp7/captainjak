@@ -109,7 +109,7 @@ url = "http://discordapp.com/channels/@CaptainjacK#3760"
 name = "Signal"
 icon = "fa fa-signal"
 weight = 2
-url = "https://signal.org/+12029514176"
+url = "tel: +12029514176"
 
 [[params.social]]
 name = "E-Mail"
@@ -127,21 +127,21 @@ url = "mailto:hey@captainjak.tech"
 name = "Wire"
 icon = "fa fa-wire"
 weight = 4
-url = "https://app.wire.com/auth/#login"
+url = "https://app.wire.com/@captainjak"
 
-[[params.social]]
-name = "GitHub"
-icon = "fa fa-github"
-weight = 5
-url = "https://github.com"
-rel = "alternate"
-type = "application/rss+xml"
+#[[params.social]]
+#name = "GitHub"
+#icon = "fa fa-github"
+#weight = 5
+#url = "https://github.com"
+#rel = "alternate"
+#type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About Me"
+name = "$whoami"
 weight = 1
 url = "about/"
 
