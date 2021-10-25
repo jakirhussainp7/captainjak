@@ -71,8 +71,8 @@ customJS = []
 # serverURL = "analytics.example.com" # For cloud-hosting, use provided URL, e.g. example.matomo.cloud
 
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
-# [params.googleTagManager]
-# id = "gid"
+[params.googleTagManager]
+id = "G-W7R6KZDR7S"
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
@@ -106,8 +106,8 @@ weight = 1
 url = "http://discordapp.com/channels/@CaptainjacK#3760"
 
 [[params.social]]
-name = "Signal"
-icon = "fa fa-signal"
+name = "call"
+icon = "fa fa-call"
 weight = 2
 url = "tel: +12029514176"
 
