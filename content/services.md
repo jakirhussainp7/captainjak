@@ -3,7 +3,7 @@ title = "Services"
 slug = "services"
 +++
 
-* #### Penetration Testing
+* #### [Penetration Testing] (/posts/pentest2) 
 
 * #### Source Protection
 
