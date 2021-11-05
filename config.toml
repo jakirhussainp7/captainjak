@@ -1,5 +1,5 @@
 baseURL = "https://captainjak.tech/"
-title = "Captain Jak."
+title = "Captain Jak-Privacy Professional"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -14,7 +14,7 @@ enableEmoji = true
 [params]
 author = "JAKIR HUSSAIN."
 description = "Captain Jak's personal website"
-keywords = "Captain Jak,privacy,network,it,cybersecurity,infosec,blog,personal"
+keywords = "Captain Jak,security, secure communications, penetration testing, cyber law, cissp,privacy,network,it,cybersecurity,infosec,blog,personal"
 info = ["Breaking into IT/Cybersecurity"]
 #avatarURL = "images/avatar.jpeg"
 #gravatar = "john.doe@example.com"
