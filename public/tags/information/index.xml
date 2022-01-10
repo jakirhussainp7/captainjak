@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>information on Captain Jak.</title>
+    <link>https://captainjak.tech/tags/information/</link>
+    <description>Recent content in information on Captain Jak.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Jan 2022 13:56:02 -0500</lastBuildDate><atom:link href="https://captainjak.tech/tags/information/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy in the age of &#39;Information is Privilege&#39;</title>
+      <link>https://captainjak.tech/posts/privacy/</link>
+      <pubDate>Mon, 10 Jan 2022 13:56:02 -0500</pubDate>
+      
+      <guid>https://captainjak.tech/posts/privacy/</guid>
+      <description>&amp;lsquo;Information is Privilege&amp;rsquo; Does users data privacy is being valued??
+   This article is being drafted now
+   </description>
+    </item>
+    
+  </channel>
+</rss>
