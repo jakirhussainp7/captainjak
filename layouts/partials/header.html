@@ -1,9 +1,11 @@
+ <head>
+      {{ template "_internal/google_analytics.html" . }}
+    </head>
 <nav class="navigation">
   <section class="container">
     <a class="navigation-title" href="{{ .Site.BaseURL | relLangURL }}">
       {{ .Site.Title }}
     </a>
-    {{ template "_internal/google_analytics.html" . }}
     {{ if or .Site.Menus.main .Site.IsMultiLingual }}
       <input type="checkbox" id="menu-toggle" />
       <label class="menu-button float-right" for="menu-toggle">
