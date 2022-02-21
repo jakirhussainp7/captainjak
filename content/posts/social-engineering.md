@@ -1,9 +1,8 @@
-+++ 
-draft = true
++++
 date = 2022-02-21T13:36:10-05:00
 title = "Social Engineering attacks in Metaverse"
 description = "Social Engineering attacks in Metaverse"
-authors = "Captain Jak"
+author = "Captain Jak"
 tags = ["Metaverse", "Social Engineering" , "Privacy"]
 +++
 

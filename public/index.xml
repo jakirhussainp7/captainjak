@@ -6,7 +6,25 @@
     <description>Recent content on Captain Jak.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Feb 2022 04:07:52 -0500</lastBuildDate><atom:link href="https://captainjak.tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Feb 2022 13:36:10 -0500</lastBuildDate><atom:link href="https://captainjak.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Engineering attacks in Metaverse</title>
+      <link>https://captainjak.tech/posts/social-engineering/</link>
+      <pubDate>Mon, 21 Feb 2022 13:36:10 -0500</pubDate>
+      
+      <guid>https://captainjak.tech/posts/social-engineering/</guid>
+      <description>This article is all about, Advanced Social Engineering attacks on vulnerable people in Metaverse. Unlike traditional Social engineering attacks, hackers using the most advance and effective methods to get personal/sensitive data from people of Metaverse without getting caught.</description>
+    </item>
+    
+    <item>
+      <title>Right to be Forgotten vs Know your Customer</title>
+      <link>https://captainjak.tech/posts/rtf-kyc/</link>
+      <pubDate>Mon, 21 Feb 2022 13:30:13 -0500</pubDate>
+      
+      <guid>https://captainjak.tech/posts/rtf-kyc/</guid>
+      <description>My experiences on Data removal requests from legal/pvt companies, collides with Know Your Customer policy.</description>
+    </item>
+    
     <item>
       <title>Dating in Metaverse: Future of Online Dating</title>
       <link>https://captainjak.tech/posts/dating/</link>
@@ -93,7 +111,7 @@ Wire Messenger: @captainjak</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://captainjak.tech/services/</guid>
-      <description>  Penetration Testing      Source Protection      Online Exposure Assessment      Secure Communications      Journalists/Whistleblowers Privacy    Schedule a Consultation
+      <description>  Source Protection      Online Exposure Assessment      Secure Communications      Journalists/Whistleblowers Privacy    Schedule a Consultation
   </description>
     </item>
     
