@@ -66,7 +66,7 @@ A Custom domain can be used to forward traffic. Configure the GitHub domain name
 Managing a custom domain on github pages can be found [here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain){:target="_blank"}. 
 
 
-**Author's Note:** Well I've written what I wanted: a tour of the various moving pieces and each one is important to me. I think this is what I'll find valuable in the future.
+**Author's Note:** This blog started out as a manuel or rather a brain dump of my process. Well I've written what I wanted: a tour of the various moving pieces and each one is important to me. I think this is what I'll find valuable in the future.
 {: .notice--info}
 
 
