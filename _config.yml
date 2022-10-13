@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Captain Jak"
   avatar           : "/assets/images/aviator.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Minimalist, Nihilist and a Surfer.
+  bio              : Minimalist, Nihilist and a Surfer 🏄
   location         : "Goa, India"
   email            :
   tor-onion        : www.tor.org
@@ -126,7 +126,7 @@ author:
       url: "https://medium.com"
     - label: "What I Use"
       icon: "fa-fw fa fa-wrench"
-      url: "/_pages/what-i-use.html"
+      url: "/_pages/what-i-use.md"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
