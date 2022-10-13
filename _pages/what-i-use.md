@@ -1,7 +1,7 @@
 ---
 title: "What I use"
 permalink: /what-i-use/
-layout: default
+layout: single
 author_profile: true
 ---
 
