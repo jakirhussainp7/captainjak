@@ -126,7 +126,7 @@ author:
       url: "https://medium.com"
     - label: "What I Use"
       icon: "fa-fw fa fa-wrench"
-      url: "/_pages/what-i-use.md"
+      url: "/_pages/what-i-use.html"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -274,6 +274,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+what-i-use:
+  type: liquid
+  path: /_pages/what-i-use.html
+
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
