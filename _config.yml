@@ -126,7 +126,7 @@ author:
       url: "https://medium.com"
     - label: "What I Use"
       icon: "fa-fw fa fa-wrench"
-      url: "/what-i-use/"
+      url: "/captainjak/what-i-use/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
