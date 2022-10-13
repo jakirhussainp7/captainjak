@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 
-This is my everyday software & hardware usage
+This is my everyday software & hardware usage. 
 
