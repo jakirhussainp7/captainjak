@@ -3,7 +3,7 @@ tags: cisa exam isaca
 title: My CISA certification journey
 ---
 
-Summer of 2020, I decided to take the [Certified Information Systems Auditor (CISA)](https://www.isaca.org/credentialing/cisa) exam. This was the next logical step in my career, as I had been practicing IT Security and RISK management for a while after spending several years in the Fintech sector & prestigious govt. projects. 
+Summer of 2022, I decided to take the [Certified Information Systems Auditor (CISA)](https://www.isaca.org/credentialing/cisa) exam. This was the next logical step in my career, as I had been practicing IT Security and RISK management for a while after spending several years in the Fintech sector & prestigious govt. projects. 
 
 I choose to take the [CISA](https://www.isaca.org/credentialing/cisa) exam without any specific paid training course. I studied for a few months but only a couple of hours weekly, with a few more intense days a couple of weeks before my exam date. I found this approach to be more flexible for me. 
 
