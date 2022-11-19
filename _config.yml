@@ -133,7 +133,7 @@ author:
     - label: "Wire"
       icon: "fa-fw fa fa-wire"
       url: "https://account.wire.com/user-profile/?id=b1506239-eb7a-4abc-ab0b-3a86a0d1a5a5"
-    - label: "Facebook"
+    - label: "Faceboook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
