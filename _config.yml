@@ -110,7 +110,7 @@ author:
   bio              : Minimalist, Nihilist and a Surfer 🏄
   location         : "Goa, India"
   email            :
-  tor-onion        : www.tor.org
+  tor-onion        : http://xzthr4jt5e6mjg2vttwovanyf36dlb7kcb46ftmmziylfleuwx6eq3ad.onion/
   links:
     - label: "Email"
       icon: "fa-fw fa fa-at"
@@ -129,7 +129,7 @@ author:
       #url: "https://medium.com"
     - label: "What I Use"
       icon: "fa-fw fa fa-wrench"
-      url: "/captainjak/what-i-use/"
+      url: "/what-i-use/"
     - label: "Wire"
       icon: "fa-fw fa fa-wire"
       url: "https://account.wire.com/user-profile/?id=b1506239-eb7a-4abc-ab0b-3a86a0d1a5a5"
