@@ -30,7 +30,7 @@ My go-to launch applications for regular usage:
 * [Brave Browser](https://brave.com/) - One of best light weighted and Privacy focused web-browser in the world right now. 
 * [Blender](https://www.blender.org/download/) - For all editing and to create the animated images. Its just like Adobe-suite in one pack. 
 * [PyCharm](https://www.jetbrains.com/pycharm/) and [Sublime text](https://www.sublimetext.com/) to edit the code and to push & commit.
-* [KeepNote](http://keepnote.org/) - To take notes and make a report of findings. I create my own KB articles here,lol. 
+* [KeepNote](http://keepnote.org/) - To take the notes and make a report of findings. I create my own KB articles here,lol. 
 
 
 
