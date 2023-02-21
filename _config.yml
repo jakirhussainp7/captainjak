@@ -17,9 +17,9 @@ minimal_mistakes_skin2   : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Privacy Partner"
+title                    : "Captain Jak"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "your data, you control" #site tagline that appears below site title in masthead
 name                     : "Captain Jak"
 description              : "Analyzing data privacy for a safer tomorrow. "
 url                      : "https://jakirhussainp7.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
