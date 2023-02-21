@@ -17,11 +17,11 @@ minimal_mistakes_skin2   : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pirate of Privacy"
+title                    : "Your Privacy Partner"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Captain Jak"
-description              : "An amazing website."
+description              : "Analyzing data privacy for a safer tomorrow. "
 url                      : "https://jakirhussainp7.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jakirhussainp7/captainjak" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Captain Jak"
   avatar           : "/assets/images/aviator.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Minimalist, Nihilist and a Surfer 🏄
+  bio              : Minimalist and a Surfer 🏄
   location         : "Goa, India"
   email            :
   tor-onion        : http://xzthr4jt5e6mjg2vttwovanyf36dlb7kcb46ftmmziylfleuwx6eq3ad.onion/
@@ -215,6 +215,7 @@ incremental: false
 # Markdown Processing
 kramdown:
   input: GFM
+  input: kramdown
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1

@@ -7,7 +7,7 @@ author_profile: true
 
 See what I use day-to-day for Hardware and Software
 
-Inspired from [others](https://uses.tech/), I've listed the Hardware and Software that I use daily. 
+Inspired from [others](https://uses.tech/){:target="_blank" rel="noopener"}, I've listed the Hardware and Software that I use daily. 
 
 ### Software
 
