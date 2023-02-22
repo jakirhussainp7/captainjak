@@ -17,17 +17,17 @@ minimal_mistakes_skin2   : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Captain Jak"
+title                    : "Captain Jak - Privacy matters."
 title_separator          : "-"
-subtitle                 : "your data, you control" #site tagline that appears below site title in masthead
+subtitle                 : #site tagline that appears below site title in masthead
 name                     : "Captain Jak"
-description              : "Analyzing data privacy for a safer tomorrow. "
+description              : "Analyzing data privacy for a safer tomorrow."
 url                      : "https://jakirhussainp7.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jakirhussainp7/captainjak" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Your Data, You Control"# overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Captain Jak"
   avatar           : "/assets/images/aviator.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Minimalist and a Surfer 🏄
+  bio              : Minimalist, Nihilist and a Surfer 🏄
   location         : "Goa, India"
   email            :
   tor-onion        : http://xzthr4jt5e6mjg2vttwovanyf36dlb7kcb46ftmmziylfleuwx6eq3ad.onion/
@@ -121,7 +121,7 @@ author:
     - label: "Tor-site"
       icon: "fa-fw fa fa-tor-onion"
       url: "http://xzthr4jt5e6mjg2vttwovanyf36dlb7kcb46ftmmziylfleuwx6eq3ad.onion/"
-    - label: "Twitter"
+    - label: "CaptainJak7"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/CaptainJak7"
     - label: "Medium"
@@ -132,7 +132,7 @@ author:
       url: "/what-i-use/"
     - label: "Wire"
       icon: "fa-fw fa fa-wire"
-      url: "https://account.wire.com/user-profile/?id=b1506239-eb7a-4abc-ab0b-3a86a0d1a5a5"
+      #url: "https://account.wire.com/user-profile/?id=b1506239-eb7a-4abc-ab0b-3a86a0d1a5a5"
     - label: "Faceboook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"

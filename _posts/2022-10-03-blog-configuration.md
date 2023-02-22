@@ -3,7 +3,9 @@ tags: blog jekyll gh-pages
 title: Setup a website using Jekyll, gh-pages
 ---
 This post can be used as a how-to guide in setting up a new static website using [Jekyll](https://jekyllrb.com/){:target="_blank"} and [Github](https://github.com){:target="_blank"} Pages.
+
 ## Jekyll on Linux
+
 ### What is Jekyll?
 
 Jekyll is a simple static website generator that is maintained by volunteers and contributors all around the world. It converts text written in the markup language and uses layouts to create a website.  You can tweak around the configuration default [_config.yml](https://jekyllrb.com/docs/configuration/) file to make the site look & feel displayed on the page.  
@@ -47,7 +49,7 @@ This box represents the notice label for the paragraph. This can be achieved by 
 And there are other related notice tags are `{: .notice--primary}``{: .notice--warning}` , `{: .notice--danger}` , `{: .notice--success}` can be used to mention type of the message.
 {: .notice--primary}
 
->This is a quote written by the author. 
+>This text represents the 'quote' section. 
 
 ## gh-pages
 After making the necessary changes to the blog, now it's time to host the site in [GitHub](https://github.com){:target="_blank"}. Create a public repository and push the site files to the repo using Pycharm. GitHub pages are available for public repositories for free. I hosted my static website on GitHub using the `gh-pages` under the repo settings page.  
