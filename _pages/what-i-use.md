@@ -1,6 +1,6 @@
 ---
 title: "What I use"
-permalink: /captainjak/what-i-use/
+permalink: /what-i-use/
 layout: single
 author_profile: true
 ---
