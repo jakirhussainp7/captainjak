@@ -15,26 +15,27 @@ CISA can showcase your expertise and assert your ability to apply a risk-based a
 ### CISA Domains 
 
 ```
-1.Information Systems Auditing Process(21%)
-2.Governance & Management of IT(17%)
-3.Information Systems Acquisition, Development, and Implementation(12%)
-4.Information Systems Operations & Business Resilience(23%)
-5.Protection of Information Assets(27%)
-
+Information Systems Auditing Process(21%)
+Governance & Management of IT(17%)
+Information Systems Acquisition, Development, and Implementation(12%)
+Information Systems Operations & Business Resilience(23%)
+Protection of Information Assets(27%)
 ```
 
 ## What to study for the CISA.
 Officially ISACA provides CISA Online review course, CISA [Review manual 27th edition](https://store.isaca.org/s/store#/store/browse/detail/a2S4w000004KoCbEAK), and the Review Questions, Answers & Explanations database. All of this material is available at a discounted price for members. However, I prepared for my exam with experienced tutor manuals and openly available content on the internet which is completely free. 
-* In the first week of my preparation, I completed the video courses on CISA five domains of knowledge available on the [Linkedin Learning](https://www.linkedin.com/learning/cisa-cert-prep-the-basics) platform; it gave me an excellent overview of the scope of the certification and the notions involved. 
-* The lectures I followed were by the industry-experienced tutor at [Hemang Doshi Academy](https://hemangdoshiacademy.in/). The books written by him are a perfect start for the CISA journey. 
-* _[Prabh Nair](https://prabhnair.in/)_ a well known Security advisor and Instructor in the Info-Sec domain. His series of videos on CISA practice question analysis helped a lot in " How to think like an Auditor " perspective.  
-* And finally, a 15-hour training video by [Dan Lachance](https://www.udemy.com/user/dan-lachance/) is available on the Youtube in two parts. 
+In the first week of my preparation, I completed the video courses on CISA five domains of knowledge available on the [Linkedin Learning](https://www.linkedin.com/learning/cisa-cert-prep-the-basics) platform; it gave me an excellent overview of the scope of the certification and the notions involved. 
+The lectures I followed were by the industry-experienced tutor at [Hemang Doshi Academy](https://hemangdoshiacademy.in/). The books written by him are a perfect start for the CISA journey. 
+_[Prabh Nair](https://prabhnair.in/)_ a well known Security advisor and Instructor in the Info-Sec domain. His series of videos on CISA practice question analysis helped a lot in **How to think like an Auditor** perspective. And finally, a 15-hour training video by [Dan Lachance](https://www.udemy.com/user/dan-lachance/) is available on the Youtube in two parts. 
 
 ### Links
 The links to the content:
-  * CISA Practice questions Analysis by Prabh Nair is [here](https://www.youtube.com/watch?v=ISNVzVYF7ms).
-  * How to Pass CISA in 15 hours Full course by Dan Lachance [Part 1](https://www.youtube.com/watch?v=XEv4evnRV_4)
-  * How to Pass CISA in 15 hours Full course by Dan Lachance [Part 2](https://www.youtube.com/watch?v=-kd4bSqD190)
+
+`CISA Practice questions Analysis by Prabh Nair is` [here](https://www.youtube.com/watch?v=ISNVzVYF7ms).
+
+`How to Pass CISA in 15 hours Full course by Dan Lachance` [Part 1](https://www.youtube.com/watch?v=XEv4evnRV_4).
+
+`How to Pass CISA in 15 hours Full course by Dan Lachance` [Part 2](https://www.youtube.com/watch?v=-kd4bSqD190).
 
 ## Preparing for the CISA exam
 I also took two full mock exams the day before the exam. The platform is very well done, user-friendly and clear, and it shows you how well you are prepared for the each chapter. 
